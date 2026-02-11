@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それを世界と言うんだね (Chinese Ver.)",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-11T09:46:11.114793Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それを世界と言うんだね",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_それを世界と言うんだね_花譜.txt"
+    }
+  ]
+}
